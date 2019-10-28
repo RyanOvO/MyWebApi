@@ -1,0 +1,12 @@
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\obj\Debug\netcoreapp3.0\staticwebassets\WebApiHelper.StaticWebAssets.Manifest.cache
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\obj\Debug\netcoreapp3.0\staticwebassets\WebApiHelper.StaticWebAssets.xml
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\obj\Debug\netcoreapp3.0\WebApiHelper.AssemblyInfoInputs.cache
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\obj\Debug\netcoreapp3.0\WebApiHelper.AssemblyInfo.cs
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\bin\Debug\netcoreapp3.0\WebApiHelper.deps.json
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\bin\Debug\netcoreapp3.0\WebApiHelper.dll
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\bin\Debug\netcoreapp3.0\WebApiHelper.pdb
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\obj\Debug\netcoreapp3.0\WebApiHelper.RazorTargetAssemblyInfo.cache
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\obj\Debug\netcoreapp3.0\WebApiHelper.dll
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\obj\Debug\netcoreapp3.0\WebApiHelper.pdb
+E:\FrameworkCode\MyWebApiDemo\MyWebApi\WebApiHelper\obj\Debug\netcoreapp3.0\WebApiHelper.csprojAssemblyReference.cache

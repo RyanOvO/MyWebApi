@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "WebApiHelper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/WebApiHelper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApiHelper.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "WebApiHelper/1.0.0": {
+      "type": "project",
+      "path": "../WebApiHelper/WebApiHelper.csproj",
+      "msbuildProject": "../WebApiHelper/WebApiHelper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "WebApiHelper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator.USER-20180315SK\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\FrameworkCode\\MyWebApiDemo\\MyWebApi\\MyWebApi\\MyWebApi.csproj",
+      "projectName": "MyWebApi",
+      "projectPath": "E:\\FrameworkCode\\MyWebApiDemo\\MyWebApi\\MyWebApi\\MyWebApi.csproj",
+      "packagesPath": "C:\\Users\\Administrator.USER-20180315SK\\.nuget\\packages\\",
+      "outputPath": "E:\\FrameworkCode\\MyWebApiDemo\\MyWebApi\\MyWebApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator.USER-20180315SK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "E:\\FrameworkCode\\MyWebApiDemo\\MyWebApi\\WebApiHelper\\WebApiHelper.csproj": {
+              "projectPath": "E:\\FrameworkCode\\MyWebApiDemo\\MyWebApi\\WebApiHelper\\WebApiHelper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
